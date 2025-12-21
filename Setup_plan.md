@@ -4,9 +4,9 @@
 
 Итак, порядок изучения и настройки ПО. Вы можете вернуться сюда, если потеряетесь.
 
-1. [[Distro preparation]]
-2. [[GNU stow and dotfiles]]
-3. [[Named pipes and mkfifo]]
+1. [Distro_preparation](Distro_preparation.md)
+2. [GNU_stow_and_dotfiles](GNU_stow_and_dotfiles.md)
+3. [Named_pipes_and_mkfifo](Named_pipes_and_mkfifo.md)
 4. execline
 5. s6 (**s**karnet.org's **s**mall and **s**ecure **s**upervision **s**oftware **s**uite)
 6. s6-log

@@ -1,4 +1,4 @@
-Предыдущая статья: [[Distro preparation]]
+Предыдущая статья: [Distro_preparation](Distro_preparation.md)
 
 # Установка
 
@@ -67,4 +67,4 @@ readlink ~/.config/mako # ~/dotfiles/mako/.config/mako
 
 Для того чтобы удалить конфиги, просто выполните `stow -D dir` в директории `~/dotfiles`
 
-Следующая статья: [[Named pipes and mkfifo]]
+Следующая статья: [Named_pipes_and_mkfifo](Named_pipes_and_mkfifo.md)
