@@ -52,4 +52,3 @@ NetworkManager слишком overhead для ADHDE, но опять же - вы
 
 То вы готовы!
 
-Следующая статья: [GNU_stow_and_dotfiles](GNU_stow_and_dotfiles.md)
