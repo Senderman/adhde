@@ -1,10 +1,10 @@
 # ADHDE - Attention-Deficit Hyperactivity Desktop Environment
 
-# WORK IN PROGRESS!!!
+![preview](https://github.com/Senderman/dotfiles/blob/master/wallpapers/Pictures/Wallpapers/adhde.png?raw=true)
+
+**WORK IN PROGRESS!!!**
 
 Очень длинный и сложный гайд по настройке окружения рабочего стола (Desktop Environment, далее DE) для linux, нацеленного на максимальную продуктивность и мультизадачность.
-
-![preview](https://github.com/Senderman/dotfiles/blob/master/wallpapers/Pictures/Wallpapers/adhde.png?raw=true)
 
 Гайд предназначен для опытных пользователей linux, в частности, arch-based дистрибутивов. 
 
