@@ -6,28 +6,29 @@
 
 1. [Distro_preparation](Distro_preparation.md)
 2. [GNU_stow_and_dotfiles](GNU_stow_and_dotfiles.md)
-3. [Shell](Shell.md)
-4. [Named_pipes_and_mkfifo](Named_pipes_and_mkfifo.md)
-5. execline
-6. s6 (**s**karnet.org's **s**mall and **s**ecure **s**upervision **s**oftware **s**uite)
-7. s6-log
-8. s6-rc
-9. основные концепции wayland
-10. dbus
-11. pipewire
-12. mangowc
-13. foot
-14. wayland clipboard
-15. waybar
-16. fuzzel, menu scripts
-17. mako
-18. desktop portals
-19. yazi
-20. ssh-agent, gpg-agent
-21. swayidle, swaylock
-22. swwwd
-23. swayimg
-24. fcitx, mozc
-25. flameshot
-26. transmission
-27. lazygit
+3. [Shell and XDG Base Directories](Shell_and_xdg_base_directories.md)
+4. XDG user directories
+5. [Named_pipes_and_mkfifo](Named_pipes_and_mkfifo.md)
+6. execline
+7. s6 (**s**karnet.org's **s**mall and **s**ecure **s**upervision **s**oftware **s**uite)
+8. s6-log
+9. s6-rc
+10. основные концепции wayland
+11. dbus
+12. pipewire
+13. mangowc
+14. foot
+15. wayland clipboard
+16. waybar
+17. fuzzel, menu scripts
+18. mako
+19. desktop portals
+20. yazi
+21. ssh-agent, gpg-agent
+22. swayidle, swaylock
+23. swwwd
+24. swayimg
+25. fcitx, mozc
+26. flameshot
+27. transmission
+28. lazygit
