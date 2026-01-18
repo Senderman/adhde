@@ -20,7 +20,7 @@ pacman -S xdg-user-dirs
 ```bash
 mkdir ~/Desktop
 mkdir ~/Download
-mkdir ~Templates
+mkdir ~/Templates
 mkdir ~/Shared
 mkdir ~/Documents
 mkdir ~/Music
