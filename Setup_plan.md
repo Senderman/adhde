@@ -7,7 +7,7 @@
 1. [Distro_preparation](Distro_preparation.md)
 2. [GNU_stow_and_dotfiles](GNU_stow_and_dotfiles.md)
 3. [Shell and XDG Base Directories](Shell_and_xdg_base_directories.md)
-4. XDG user directories
+4. [XDG user directories](XDG_user_directories.md)
 5. [Named_pipes_and_mkfifo](Named_pipes_and_mkfifo.md)
 6. execline
 7. s6 (**s**karnet.org's **s**mall and **s**ecure **s**upervision **s**oftware **s**uite)
